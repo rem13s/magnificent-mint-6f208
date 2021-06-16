@@ -5,8 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: >-
-      images/wood-table-counter-with-concrete-grunge-texture-background-3d-rendering.jpg
+    background_image: images/wood-table2.jpg
     background_image_opacity: 65
     content: >-
       # Real, beautiful plants right to your door
