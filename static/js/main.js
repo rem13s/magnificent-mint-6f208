@@ -1,4 +1,5 @@
 const templateParams = document.getElementById('template-params').dataset;
+console.log("some text")
 const apiKey = templateParams.apiKey;
 const templatesUrl = templateParams.templatesUrl
 
@@ -11,7 +12,7 @@ fetch(templatesUrl)
       document.body.appendChild(fragment);
 
       var script = document.createElement('script');
-      script.src = 'https://cdn.snipcart.com/themes/v3.0.18/default/snipcart.js';
+      script.src = 'https://cdn.snipcart.com/themes/v3.2.0/default/snipcart.js';
       document.body.appendChild(script);
     });
 

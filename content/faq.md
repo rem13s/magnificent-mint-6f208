@@ -52,10 +52,10 @@ sections:
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
-    address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
-    phone: +1-202-555-0112
-    email: geeks@snipcart.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    address: '181, Rue des Pommiers, L-2343, Luxembourg'
+    phone: +352 661 170 029
+    email: contact@myantik.com
+    mapUrl: 'https://goo.gl/maps/kQdCTtpYUXz6Hixj9'
 seo:
   title: FAQ
   description: This is the faq page

@@ -23,14 +23,14 @@ sections:
     icon: true
     light_title: true
     featured_products:
-      - content/products/plant1.md
+      - content/products/queenElizabeth.md
       - content/products/plant3.md
       - content/products/plant5.md
       - content/products/plant7.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
-      - content/category/bigplants.md
+      - content/category/medals.md
       - content/category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
